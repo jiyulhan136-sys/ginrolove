@@ -19,7 +19,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:100A25,
 <!-- =================== TYPING SYSTEM =================== -->
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=110&pause=1400&deleteDelay=60&color=00E5FF&background=05051000&center=true&vCenter=true&width=700&height=80&lines=%5BLoading...%5D;%5BAccess+Granted%5D;%5BWelcome%5D&repeat=true&cursor=true"
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=350&pause=3000&deleteDelay=250&color=00E5FF&background=05051000&center=true&vCenter=true&width=700&height=80&lines=%5BLoading...%5D;%5BAccess+Granted%5D;%5BWelcome%5D&repeat=true&cursor=true"
 />
 
 <br>
