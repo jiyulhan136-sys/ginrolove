@@ -1,243 +1,243 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:120A2A,50:4B168C,75:7B2FFF,100:00E5FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
-
-<br>
-
-# `// USER PROFILE INITIALIZED`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║     ███╗   ███╗██╗      ██████╗ ██████╗ ███████╗           ║
-║     ████╗ ████║██║     ██╔═══██╗██╔══██╗██╔════╝           ║
-║     ██╔████╔██║██║     ██║   ██║██████╔╝███████╗           ║
-║     ██║╚██╔╝██║██║     ██║   ██║██╔═══╝ ╚════██║           ║
-║     ██║ ╚═╝ ██║███████╗╚██████╔╝██║     ███████║           ║
-║                                                              ║
-║              [ MACHINE LEARNING / MLOps ]                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-### `PYTHON DEVELOPER` // `ML ENGINEER IN TRAINING`
-
-**◈ DATA · CODE · MODELS · SYSTEMS ◈**
-
-<br>
-
-`[ ONLINE ]` ` [ LEARNING ]` ` [ BUILDING ]` ` [ EVOLVING ]`
-
-</div>
-
----
+<!-- CYBERPUNK GLITCH TERMINAL -->
 
 <div align="center">
 
-## `╱╲ N E O N   N E T W O R K ╱╲`
+<svg width="650" height="100" viewBox="0 0 650 100" xmlns="http://www.w3.org/2000/svg">
 
-```text
-          ░▒▓█ SYSTEM BOOT █▓▒░
+  <defs>
 
-       > loading developer profile...
-       > loading python environment...
-       > loading machine learning modules...
-       > initializing MLOps pipeline...
-       > status: ████████████████████ 100%
+```
+<!-- Neon Glow -->
+<filter id="neon">
+  <feGaussianBlur stdDeviation="2.5" result="blur"/>
+  <feMerge>
+    <feMergeNode in="blur"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
 
-                 CONNECTION ESTABLISHED
+<!-- Glitch Effect -->
+<filter id="glitch">
+
+  <feOffset in="SourceGraphic" dx="-3" dy="0" result="red"/>
+  <feOffset in="SourceGraphic" dx="3" dy="0" result="cyan"/>
+
+  <feFlood flood-color="#ff00ff" result="magentaColor"/>
+  <feFlood flood-color="#00ffff" result="cyanColor"/>
+
+  <feComposite in="magentaColor" in2="red" operator="in" result="magenta"/>
+  <feComposite in="cyanColor" in2="cyan" operator="in" result="cyan"/>
+
+  <feMerge>
+    <feMergeNode in="magenta"/>
+    <feMergeNode in="cyan"/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+
+</filter>
 ```
 
-</div>
+  </defs>
 
----
+  <!-- Terminal Frame -->
 
-# `01 // ABOUT_ME`
+<rect
+ x="5"
+ y="5"
+ width="640"
+ height="90"
+ rx="10"
+ fill="#050510"
+ stroke="#00E5FF"
+ stroke-width="1"
+ opacity="0.95"
+/>
 
-```python
-class Developer:
+  <!-- Scanlines -->
 
-    name = "YOUR_NAME"
-    role = "ML / MLOps Developer in Training"
+  <g opacity="0.08">
 
-    primary_language = "Python"
-
-    interests = [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "MLOps",
-        "Data Engineering",
-        "Automation",
-        "Model Deployment"
-    ]
-
-    current_mission = """
-    Transform data into intelligent systems
-    and turn experimental models into
-    reliable production pipelines.
-    """
-
-    status = "ONLINE"
+```
+<line x1="5" y1="20" x2="645" y2="20" stroke="#00E5FF"/>
+<line x1="5" y1="35" x2="645" y2="35" stroke="#00E5FF"/>
+<line x1="5" y1="50" x2="645" y2="50" stroke="#00E5FF"/>
+<line x1="5" y1="65" x2="645" y2="65" stroke="#00E5FF"/>
+<line x1="5" y1="80" x2="645" y2="80" stroke="#00E5FF"/>
 ```
 
-> `// SYSTEM MESSAGE`
+  </g>
+
+  <!-- Terminal Prefix -->
+
+<text
+x="30"
+y="58"
+font-family="monospace"
+font-size="22"
+font-weight="bold"
+fill="#9D4EDD"
+filter="url(#neon)"
+
 >
-> **Learning is an iterative process.**
+
+```
+&gt;_
+```
+
+  </text>
+
+  <!-- Loading -->
+
+<text
+x="75"
+y="58"
+font-family="monospace"
+font-size="22"
+font-weight="bold"
+fill="#00E5FF"
+filter="url(#neon)"
+
 >
-> **Build → Break → Debug → Improve → Repeat**
 
----
+```
+<tspan>
 
-# `02 // TECH_MODULES`
+  <animate
+    attributeName="opacity"
+    values="0;1;1;1;0"
+    keyTimes="0;0.05;0.65;0.82;0.9"
+    dur="9s"
+    repeatCount="indefinite"
+  />
 
-### `> PYTHON`
+  [Loading...]
 
-<img src="https://skillicons.dev/icons?i=python" />
-
-### `> MACHINE_LEARNING`
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-
-### `> MLOps / INFRASTRUCTURE`
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-
-### `> DEVELOPMENT`
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git" />
-
----
-
-<div align="center">
-
-```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│             NEURAL SYSTEM / PIPELINE                   │
-│                                                        │
-│   DATA ──► TRAIN ──► EXPERIMENT ──► DEPLOY            │
-│                                      │                 │
-│                                      ▼                 │
-│                                  MONITOR               │
-│                                      │                 │
-│                                      └────► IMPROVE    │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
+</tspan>
 ```
 
-</div>
+  </text>
 
----
+  <!-- Access Granted -->
 
-# `03 // CURRENTLY_LEARNING`
+<text
+x="75"
+y="58"
+font-family="monospace"
+font-size="22"
+font-weight="bold"
+fill="#00E5FF"
+filter="url(#glitch)"
 
-```text
-┌─ PYTHON
-│  ├─ Data Processing
-│  ├─ Automation
-│  └─ Software Fundamentals
-│
-├─ MACHINE LEARNING
-│  ├─ Data Preprocessing
-│  ├─ Model Training
-│  ├─ Evaluation
-│  └─ Experimentation
-│
-└─ MLOps
-   ├─ Git / Version Control
-   ├─ Docker
-   ├─ ML Pipelines
-   ├─ Model Deployment
-   ├─ Experiment Tracking
-   └─ Monitoring
+>
+
+```
+<tspan>
+
+  <animate
+    attributeName="opacity"
+    values="0;0;1;1;1;0"
+    keyTimes="0;0.30;0.36;0.62;0.70;0.75"
+    dur="9s"
+    repeatCount="indefinite"
+  />
+
+  [Access Granted]
+
+</tspan>
 ```
 
-<div align="center">
+  </text>
 
-`[██████████████████░░] 90% LEARNING`
+  <!-- Welcome -->
 
-`[██████████████░░░░░░] 70% BUILDING`
+<text
+x="75"
+y="58"
+font-family="monospace"
+font-size="22"
+font-weight="bold"
+fill="#FFFFFF"
+filter="url(#neon)"
 
-`[██████████░░░░░░░░░░] 50% DEPLOYING`
+>
 
-</div>
+```
+<tspan>
 
----
+  <animate
+    attributeName="opacity"
+    values="0;0;0;1;1;1;0"
+    keyTimes="0;0.62;0.68;0.73;0.86;0.92;0.98"
+    dur="9s"
+    repeatCount="indefinite"
+  />
 
-# `04 // PROJECT_DATABASE`
+  [Welcome]
 
-```text
-╔══════════════════════════════════════════════════════╗
-║ PROJECT DATABASE                                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  [01] MACHINE LEARNING                              ║
-║       └─ Model experiments & analysis               ║
-║                                                      ║
-║  [02] MLOps PIPELINE                                ║
-║       └─ Training → Deployment → Monitoring         ║
-║                                                      ║
-║  [03] AI EXPERIMENTS                                ║
-║       └─ Testing ideas & building prototypes        ║
-║                                                      ║
-║  [04] FUTURE PROJECT                                ║
-║       └─ ██████████████████████████                 ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+</tspan>
 ```
 
----
+  </text>
 
-# `05 // GITHUB_STATS`
+  <!-- Blinking Cursor -->
 
-<div align="center">
+<rect
+x="255"
+y="38"
+width="3"
+height="25"
+fill="#00E5FF"
+filter="url(#neon)"
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF&icon_color=9D4EDD" height="170"/>
+>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF" height="170"/>
-
-</div>
-
----
-
-# `06 // ACTIVITY_MONITOR`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050510&color=00E5FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   SYSTEM STATUS                                      ║
-║                                                      ║
-║   ● PYTHON             ONLINE                        ║
-║   ● MACHINE LEARNING   ONLINE                        ║
-║   ● MLOps              LEARNING                      ║
-║   ● AI                 EXPERIMENTAL                  ║
-║   ● CURIOSITY          UNLIMITED                     ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+```
+<animate
+  attributeName="opacity"
+  values="1;0;1"
+  dur="0.8s"
+  repeatCount="indefinite"
+/>
 ```
 
-### `// KEEP LEARNING. KEEP BUILDING. KEEP EVOLVING.`
+  </rect>
+
+  <!-- Glitch Bars -->
+
+  <g opacity="0">
+
+```
+<rect
+  x="100"
+  y="42"
+  width="140"
+  height="3"
+  fill="#FF00FF"
+/>
+
+<rect
+  x="300"
+  y="62"
+  width="180"
+  height="2"
+  fill="#00FFFF"
+/>
+
+<animate
+  attributeName="opacity"
+  values="0;0;1;0;0;1;0"
+  keyTimes="0;0.32;0.34;0.36;0.68;0.70;0.72"
+  dur="9s"
+  repeatCount="indefinite"
+/>
+```
+
+  </g>
+
+</svg>
 
 <br>
 
-`01001001 01001110 01010100 01000101 01001100 01001100 01001001 01000111 01000101 01001110 01000011 01000101`
-
-<br>
-
-**「 SYSTEM ONLINE 」**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:7B2FFF,50:4B168C,75:120A2A,100:050510&height=140&section=footer&animation=twinkling"/>
+`[ SYSTEM ONLINE ]`　`[ CONNECTION ESTABLISHED ]`
 
 </div>
