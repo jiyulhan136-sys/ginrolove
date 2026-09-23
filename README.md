@@ -1,215 +1,243 @@
 <div align="center">
 
-# ✦ HELLO, WORLD ✦
-
-### `PYTHON DEVELOPER` · `ML ENGINEER IN TRAINING` · `MLOps`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1F,50:4B3B8F,100:8A6DFF&height=180&section=header&text=BUILD.%20LEARN.%20EVOLVE.&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,25:120A2A,50:4B168C,75:7B2FFF,100:00E5FF&height=220&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"/>
 
 <br>
 
-> **Turning data into intelligence,
-> and ideas into systems.**
+# `// USER PROFILE INITIALIZED`
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║     ███╗   ███╗██╗      ██████╗ ██████╗ ███████╗           ║
+║     ████╗ ████║██║     ██╔═══██╗██╔══██╗██╔════╝           ║
+║     ██╔████╔██║██║     ██║   ██║██████╔╝███████╗           ║
+║     ██║╚██╔╝██║██║     ██║   ██║██╔═══╝ ╚════██║           ║
+║     ██║ ╚═╝ ██║███████╗╚██████╔╝██║     ███████║           ║
+║                                                              ║
+║              [ MACHINE LEARNING / MLOps ]                   ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+### `PYTHON DEVELOPER` // `ML ENGINEER IN TRAINING`
+
+**◈ DATA · CODE · MODELS · SYSTEMS ◈**
 
 <br>
 
-`Python`　`Machine Learning`　`MLOps`　`AI`　`Docker`　`Git`
+`[ ONLINE ]` ` [ LEARNING ]` ` [ BUILDING ]` ` [ EVOLVING ]`
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+<div align="center">
+
+## `╱╲ N E O N   N E T W O R K ╱╲`
+
+```text
+          ░▒▓█ SYSTEM BOOT █▓▒░
+
+       > loading developer profile...
+       > loading python environment...
+       > loading machine learning modules...
+       > initializing MLOps pipeline...
+       > status: ████████████████████ 100%
+
+                 CONNECTION ESTABLISHED
+```
+
+</div>
+
+---
+
+# `01 // ABOUT_ME`
 
 ```python
 class Developer:
 
-    name = "Your Name"
+    name = "YOUR_NAME"
     role = "ML / MLOps Developer in Training"
 
-    language = ["Python"]
+    primary_language = "Python"
 
     interests = [
         "Machine Learning",
         "Artificial Intelligence",
         "MLOps",
-        "Data",
+        "Data Engineering",
         "Automation",
         "Model Deployment"
     ]
 
-    currently_learning = [
-        "Machine Learning",
-        "MLOps",
-        "Docker",
-        "Git / GitHub",
-        "Model Serving",
-        "ML Pipelines"
-    ]
+    current_mission = """
+    Transform data into intelligent systems
+    and turn experimental models into
+    reliable production pipelines.
+    """
 
-    philosophy = "Learn → Build → Experiment → Improve"
+    status = "ONLINE"
 ```
 
-> **I don't just want to use AI.
-> I want to understand how it is built, deployed, and continuously improved.**
+> `// SYSTEM MESSAGE`
+>
+> **Learning is an iterative process.**
+>
+> **Build → Break → Debug → Improve → Repeat**
 
 ---
 
-## ◇ TECH STACK
+# `02 // TECH_MODULES`
 
-### `LANGUAGE`
+### `> PYTHON`
 
-<p>
 <img src="https://skillicons.dev/icons?i=python" />
-</p>
 
-### `AI / MACHINE LEARNING`
+### `> MACHINE_LEARNING`
 
-<p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
 
-### `MLOps / DEVOPS`
+### `> MLOps / INFRASTRUCTURE`
 
-<p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-</p>
 
-### `DEVELOPMENT`
+### `> DEVELOPMENT`
 
-<p>
 <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-</p>
 
 ---
-
-## ⟡ CURRENTLY LEARNING
-
-```text
-                    ┌───────────────────────┐
-                    │      DATA             │
-                    └──────────┬────────────┘
-                               ↓
-                    ┌───────────────────────┐
-                    │   MACHINE LEARNING   │
-                    └──────────┬────────────┘
-                               ↓
-                    ┌───────────────────────┐
-                    │    EXPERIMENTATION    │
-                    └──────────┬────────────┘
-                               ↓
-                    ┌───────────────────────┐
-                    │     MLOps PIPELINE    │
-                    └──────────┬────────────┘
-                               ↓
-                    ┌───────────────────────┐
-                    │   DEPLOY & MONITOR    │
-                    └───────────────────────┘
-```
-
-### My current focus
-
-* 🐍 Python
-* 🧠 Machine Learning fundamentals
-* ⚙️ MLOps
-* 📦 Docker
-* 🔄 ML Pipeline
-* 🚀 Model Deployment
-* 📊 Data & Experiment Tracking
-* 🔧 Automation
-
----
-
-## ✦ MY DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
-### `DATA → MODEL → PIPELINE → DEPLOYMENT → MONITORING`
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│             NEURAL SYSTEM / PIPELINE                   │
+│                                                        │
+│   DATA ──► TRAIN ──► EXPERIMENT ──► DEPLOY            │
+│                                      │                 │
+│                                      ▼                 │
+│                                  MONITOR               │
+│                                      │                 │
+│                                      └────► IMPROVE    │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# `03 // CURRENTLY_LEARNING`
+
+```text
+┌─ PYTHON
+│  ├─ Data Processing
+│  ├─ Automation
+│  └─ Software Fundamentals
+│
+├─ MACHINE LEARNING
+│  ├─ Data Preprocessing
+│  ├─ Model Training
+│  ├─ Evaluation
+│  └─ Experimentation
+│
+└─ MLOps
+   ├─ Git / Version Control
+   ├─ Docker
+   ├─ ML Pipelines
+   ├─ Model Deployment
+   ├─ Experiment Tracking
+   └─ Monitoring
+```
+
+<div align="center">
+
+`[██████████████████░░] 90% LEARNING`
+
+`[██████████████░░░░░░] 70% BUILDING`
+
+`[██████████░░░░░░░░░░] 50% DEPLOYING`
+
+</div>
+
+---
+
+# `04 // PROJECT_DATABASE`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║ PROJECT DATABASE                                    ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  [01] MACHINE LEARNING                              ║
+║       └─ Model experiments & analysis               ║
+║                                                      ║
+║  [02] MLOps PIPELINE                                ║
+║       └─ Training → Deployment → Monitoring         ║
+║                                                      ║
+║  [03] AI EXPERIMENTS                                ║
+║       └─ Testing ideas & building prototypes        ║
+║                                                      ║
+║  [04] FUTURE PROJECT                                ║
+║       └─ ██████████████████████████                 ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+---
+
+# `05 // GITHUB_STATS`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF&icon_color=9D4EDD" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF" height="170"/>
+
+</div>
+
+---
+
+# `06 // ACTIVITY_MONITOR`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050510&color=00E5FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   SYSTEM STATUS                                      ║
+║                                                      ║
+║   ● PYTHON             ONLINE                        ║
+║   ● MACHINE LEARNING   ONLINE                        ║
+║   ● MLOps              LEARNING                      ║
+║   ● AI                 EXPERIMENTAL                  ║
+║   ● CURIOSITY          UNLIMITED                     ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+### `// KEEP LEARNING. KEEP BUILDING. KEEP EVOLVING.`
 
 <br>
 
-**A model is not finished when it works.**
-
-**It becomes useful when it can be reliably deployed, monitored,
-and continuously improved.**
-
-</div>
-
----
-
-## ◈ PROJECTS
-
-### 🚧 Currently Building
-
-> Projects and experiments will appear here as I continue learning MLOps.
-
-```text
-[ PROJECT 01 ]  Machine Learning
-[ PROJECT 02 ]  MLOps Pipeline
-[ PROJECT 03 ]  Model Deployment
-[ PROJECT 04 ]  AI Experiment
-```
-
----
-
-## ⟢ GITHUB STATISTICS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D0B1F&title_color=9B87FF&text_color=D8D4F0&icon_color=9B87FF" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D0B1F&title_color=9B87FF&text_color=D8D4F0" height="170"/>
-
-</div>
-
----
-
-## ⟡ CONTRIBUTION
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D0B1F&color=9B87FF&line=6C5CE7&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## ◇ LEARNING LOG
-
-```text
-2026
-│
-├── Python
-│   ├── Fundamentals
-│   ├── Data Processing
-│   └── Automation
-│
-├── Machine Learning
-│   ├── Fundamentals
-│   ├── Model Training
-│   └── Evaluation
-│
-└── MLOps
-    ├── Version Control
-    ├── Containerization
-    ├── ML Pipeline
-    ├── Deployment
-    └── Monitoring
-```
-
----
-
-<div align="center">
-
-### `KEEP LEARNING.`
-
-### `KEEP BUILDING.`
-
-### `KEEP EVOLVING.`
+`01001001 01001110 01010100 01000101 01001100 01001100 01001001 01000111 01000101 01001110 01000011 01000101`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A6DFF,50:4B3B8F,100:0D0B1F&height=120&section=footer" />
+**「 SYSTEM ONLINE 」**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:7B2FFF,50:4B168C,75:120A2A,100:050510&height=140&section=footer&animation=twinkling"/>
 
 </div>
-
