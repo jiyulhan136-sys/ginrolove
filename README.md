@@ -1,12 +1,14 @@
 <!-- ========================================================= -->
 
-<!--                    CYBERPUNK PROFILE                      -->
+<!--                  JIYULHAN136 / GINROLOVE                  -->
+
+<!--              CYBERPUNK MLOps PROFILE README               -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- ===================== HERO ====================== -->
+<!-- ======================= HERO ======================= -->
 
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:100A25,45:35116B,70:7B2FFF,100:00E5FF&height=230&section=header&text=SYSTEM%20ONLINE&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=38"
@@ -14,10 +16,10 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,20:100A25,
 
 <br>
 
-<!-- ================= TYPING TERMINAL ================= -->
+<!-- =================== TYPING SYSTEM =================== -->
 
 <img
-src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=75&pause=1100&color=00E5FF&background=05051000&center=true&vCenter=true&width=650&height=70&lines=%5BLoading...%5D;%5BAccess+Granted%5D;%5BWelcome%5D&repeat=true&cursor=true"
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=25&duration=110&pause=1400&deleteDelay=60&color=00E5FF&background=05051000&center=true&vCenter=true&width=700&height=80&lines=%5BLoading...%5D;%5BAccess+Granted%5D;%5BWelcome%5D&repeat=true&cursor=true"
 />
 
 <br>
@@ -27,17 +29,17 @@ src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&du
 ║                                                              ║
 ║                  N E O N   N E T W O R K                     ║
 ║                                                              ║
-║              CONNECTION ESTABLISHED                         ║
+║                  CONNECTION ESTABLISHED                      ║
 ║                                                              ║
-║     PYTHON ENGINE        : ONLINE                            ║
-║     MACHINE LEARNING     : ONLINE                            ║
-║     MLOps CORE           : INITIALIZING                      ║
-║     DEVELOPER PROFILE    : AUTHORIZED                        ║
+║     USER       : ginrolove                                   ║
+║     PYTHON     : ONLINE                                      ║
+║     MLOps      : INITIALIZING                                ║
+║     AI CORE    : LEARNING                                    ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-### `PYTHON DEVELOPER`　·　`ML ENGINEER IN TRAINING`　·　`MLOps`
+### `GINROLOVE` // `PYTHON DEVELOPER` // `MLOps IN TRAINING`
 
 <br>
 
@@ -47,12 +49,14 @@ src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&du
 
 ---
 
-# `01 // ABOUT_ME`
+# `01 // USER_PROFILE`
 
 ```python
 class Developer:
 
-    name = "YOUR_NAME"
+    username = "jiyulhan136-sys"
+    nickname = "ginrolove"
+
     role = "ML / MLOps Developer in Training"
 
     primary_language = "Python"
@@ -61,7 +65,7 @@ class Developer:
         "Machine Learning",
         "Artificial Intelligence",
         "MLOps",
-        "Data Engineering",
+        "Data",
         "Automation",
         "Model Deployment"
     ]
@@ -84,7 +88,7 @@ class Developer:
 > `// SYSTEM MESSAGE`
 >
 > **I don't just want to use AI.**
-> **I want to understand how intelligent systems are built, deployed, monitored, and improved.**
+> **I want to understand how intelligent systems are built, deployed, monitored, and continuously improved.**
 
 ---
 
@@ -93,36 +97,36 @@ class Developer:
 ```text
 ░▒▓████████████████████████████████████████████████████████▓▒░
 
-              DATA
-                │
-                ▼
-        ┌───────────────┐
-        │ PREPROCESSING │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ MODEL TRAINING│
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │ EXPERIMENTATION│
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    DEPLOY     │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    MONITOR    │
-        └───────┬───────┘
-                │
-                └──────────────► IMPROVE
-                                  │
-                                  └──────► REPEAT
+                       DATA
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ PREPROCESSING │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ MODEL TRAINING│
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ EXPERIMENT    │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    DEPLOY     │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │    MONITOR    │
+                 └───────┬───────┘
+                         │
+                         └──────────► IMPROVE
+                                      │
+                                      └──► REPEAT
 
 ░▒▓████████████████████████████████████████████████████████▓▒░
 ```
@@ -133,7 +137,7 @@ class Developer:
 
 # `02 // TECH_STACK`
 
-## `> LANGUAGE`
+## `> PRIMARY LANGUAGE`
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python" />
@@ -141,7 +145,7 @@ class Developer:
 
 ---
 
-## `> MACHINE_LEARNING`
+## `> MACHINE LEARNING`
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
@@ -168,39 +172,39 @@ class Developer:
 # `03 // CURRENTLY_LEARNING`
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                    LEARNING DATABASE                         │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [01] PYTHON                                                 │
-│       ├── Programming Fundamentals                           │
-│       ├── Data Processing                                    │
-│       └── Automation                                         │
-│                                                              │
-│  [02] MACHINE LEARNING                                       │
-│       ├── Data Preprocessing                                 │
-│       ├── Model Training                                     │
-│       ├── Evaluation                                         │
-│       └── Experimentation                                    │
-│                                                              │
-│  [03] MLOps                                                  │
-│       ├── Git / Version Control                              │
-│       ├── Docker                                             │
-│       ├── ML Pipeline                                        │
-│       ├── Model Deployment                                   │
-│       ├── Experiment Tracking                                │
-│       └── Monitoring                                         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                    LEARNING DATABASE                         ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [01] PYTHON                                                 ║
+║       ├── Programming Fundamentals                           ║
+║       ├── Data Processing                                    ║
+║       └── Automation                                         ║
+║                                                              ║
+║  [02] MACHINE LEARNING                                       ║
+║       ├── Data Preprocessing                                 ║
+║       ├── Model Training                                     ║
+║       ├── Evaluation                                         ║
+║       └── Experimentation                                    ║
+║                                                              ║
+║  [03] MLOps                                                  ║
+║       ├── Git / Version Control                              ║
+║       ├── Docker                                             ║
+║       ├── ML Pipeline                                        ║
+║       ├── Model Deployment                                   ║
+║       ├── Experiment Tracking                                ║
+║       └── Monitoring                                         ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-`PYTHON`　████████████████████░░░░　`LEARNING`
+`PYTHON`　　　　　██████████████████░░░　`LEARNING`
 
-`MACHINE LEARNING`　███████████████░░░░░　`LEARNING`
+`MACHINE LEARNING`　████████████████░░░░　`LEARNING`
 
-`MLOps`　████████████░░░░░░░░░　`LEARNING`
+`MLOps`　　　　　　██████████████░░░░░░　`LEARNING`
 
 </div>
 
@@ -281,11 +285,11 @@ class Developer:
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF&icon_color=9D4EDD"
+src="https://github-readme-stats.vercel.app/api?username=jiyulhan136-sys&show_icons=true&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF&icon_color=9D4EDD"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiyulhan136-sys&layout=compact&hide_border=true&bg_color=050510&title_color=00E5FF&text_color=E6E6FF"
 />
 
 </div>
@@ -297,7 +301,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=050510&color=00E5FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=jiyulhan136-sys&bg_color=050510&color=00E5FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true"
 width="95%"
 />
 
@@ -321,8 +325,8 @@ width="95%"
 ║   ● AI                 EXPERIMENTAL                          ║
 ║   ● CURIOSITY          UNLIMITED                             ║
 ║                                                              ║
-║                 SYSTEM STABLE                               ║
-║                 CONNECTION ACTIVE                           ║
+║                 SYSTEM STABLE                                ║
+║                 CONNECTION ACTIVE                            ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -381,6 +385,6 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,25:7B2FFF,
 
 <!-- ========================================================= -->
 
-<!--                    END OF PROFILE                         -->
+<!--                         END                               -->
 
 <!-- ========================================================= -->
